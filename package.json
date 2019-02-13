@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-transform-private-members",
+  "version": "0.1.0",
+  "description": "Transform private class member names to Symbol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Cheung",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seancheung/babel-plugin-transform-private-members.git"
+  },
+  "keywords": [
+    "babel",
+    "es6",
+    "private",
+    "property",
+    "method",
+    "field",
+    "symbol",
+    "class"
+  ],
+  "bugs": {
+    "url": "https://github.com/seancheung/babel-plugin-transform-private-members/issues"
+  },
+  "homepage": "https://github.com/seancheung/babel-plugin-transform-private-members#readme"
+}
